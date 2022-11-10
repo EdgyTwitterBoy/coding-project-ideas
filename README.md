@@ -8,6 +8,7 @@ This is mainly for myself to help me remember my ideas (and also mark what I've 
 ### Simple
 - Sudoku
 - Quadratic equation calculator with complex solutions
+- Wordle clone
 
 ### Advanced
 - File manager with basic functions (Create/Delete/Move File, ...) and two "windows" (similar to [Total Commander](https://www.ghisler.com/))
